@@ -1,5 +1,7 @@
 <div align="center">
 	<img src="./assets/svg/banner.svg" alt="Anil Rijal developer banner">
+	<br>
+	<img src="./assets/svg/typing.svg" alt="Animated developer terminal">
 </div>
 
 <table align="center">
@@ -14,6 +16,23 @@
 			<p><strong>Backend:</strong> Python · Django · REST APIs</p>
 			<p><strong>Frontend:</strong> JavaScript · HTML · CSS · Bootstrap</p>
 			<p><strong>Data & Tools:</strong> PostgreSQL · SQLite · Git · Vercel</p>
+		</td>
+	</tr>
+</table>
+
+<table align="center">
+	<tr>
+		<td width="33%" valign="top">
+			<h3>📌 Now Building</h3>
+			<p>Hospital management workflows with a focus on clear data models and practical user flows.</p>
+		</td>
+		<td width="33%" valign="top">
+			<h3>⚙️ How I Work</h3>
+			<p>Understand the problem, design the simplest useful solution, then iterate from real feedback.</p>
+		</td>
+		<td width="33%" valign="top">
+			<h3>🟢 Available</h3>
+			<p>Open to backend projects, learning opportunities, and thoughtful collaborations.</p>
 		</td>
 	</tr>
 </table>

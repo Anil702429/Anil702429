@@ -5,6 +5,13 @@
      height="250"
      viewBox="0 0 1280 250">
 
+<defs>
+    <clipPath id="typing-line">
+        <rect x="35" y="108" width="0" height="30">
+            <animate attributeName="width" values="0;780;780;0" keyTimes="0;0.35;0.8;1" dur="8s" repeatCount="indefinite"/>
+        </rect>
+    </clipPath>
+</defs>
 
 <rect
     x="0"
@@ -140,5 +147,27 @@ Anil702429@github:~$ ./start.sh
 Ready. █
 
 </text>
+
+<rect x="25" y="105" width="1230" height="115" fill="#161B22"/>
+
+<g clip-path="url(#typing-line)">
+    <text x="40" y="135" fill="#3FB950" font-size="20" font-family="JetBrains Mono, Consolas, monospace">
+        $ building thoughtful backend systems...
+    </text>
+</g>
+
+<text x="40" y="165" fill="#3FB950" font-size="20" font-family="JetBrains Mono, Consolas, monospace" opacity="0">
+    $ designing reliable APIs and data flows
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.25;0.35;0.8;1" dur="8s" repeatCount="indefinite"/>
+</text>
+
+<text x="40" y="195" fill="#3FB950" font-size="20" font-family="JetBrains Mono, Consolas, monospace" opacity="0">
+    $ learning, shipping, improving
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.45;0.55;0.8;1" dur="8s" repeatCount="indefinite"/>
+</text>
+
+<rect x="40" y="205" width="12" height="23" fill="#3FB950">
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+</rect>
 
 </svg>

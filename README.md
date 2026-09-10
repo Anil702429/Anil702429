@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="./assets/svg/banner.svg" alt="Anil Rijal developer banner">
+	<img src="./assets/gif/banner.gif" alt="Animated Anil Rijal developer banner">
 	<br>
 	<img src="./assets/svg/typing.svg" alt="Animated developer terminal">
 </div>

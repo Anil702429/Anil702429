@@ -10,6 +10,7 @@
 			<h2>👋 Anil Rijal</h2>
 			<p><strong>Python & Django Developer</strong></p>
 			<p>CSIT student building practical web applications with Python, Django, PostgreSQL, and modern web technologies.</p>
+			<img src="./assets/svg/profile-status.svg" alt="Currently coding status">
 		</td>
 		<td width="50%" valign="top">
 			<h2>🛠 Tech Stack</h2>

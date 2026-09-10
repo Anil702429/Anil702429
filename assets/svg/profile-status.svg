@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="54" viewBox="0 0 520 54">
+  <defs>
+    <clipPath id="typewriter">
+      <rect x="44" y="8" width="0" height="36">
+        <animate attributeName="width" values="0;194;194;0" keyTimes="0;0.42;0.78;1" dur="5s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
   <rect width="520" height="54" rx="8" fill="#0D1117" stroke="#30363D"/>
   <circle cx="24" cy="27" r="7" fill="#3FB950">
     <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/>
     <animate attributeName="r" values="7;9;7" dur="1.6s" repeatCount="indefinite"/>
   </circle>
-  <text x="44" y="33" fill="#3FB950" font-family="JetBrains Mono, Consolas, monospace" font-size="18">
-    currently coding...
-  </text>
-  <rect x="238" y="16" width="10" height="22" fill="#58A6FF">
-    <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+  <g clip-path="url(#typewriter)">
+    <text x="44" y="33" fill="#3FB950" font-family="JetBrains Mono, Consolas, monospace" font-size="18">currently coding...</text>
+  </g>
+  <rect x="44" y="16" width="10" height="22" fill="#58A6FF">
+    <animate attributeName="x" values="44;238;238;44" keyTimes="0;0.42;0.78;1" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0;1" keyTimes="0;0.42;0.78;1" dur="5s" repeatCount="indefinite"/>
   </rect>
 </svg>

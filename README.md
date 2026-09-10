@@ -89,3 +89,15 @@ Flutter · PostgreSQL · Backend architecture · Deployment
 ---
 
 ### "Build it. Break it. Understand it. Improve it."
+
+---
+
+## `anil@github:~$ ./welcome.sh`
+
+<img src="./assets/svg/banner.svg" alt="Terminal welcome banner">
+
+## `anil@github:~$ whoami`
+
+<img src="./assets/svg/info-card.svg" alt="Developer information card">
+
+<img src="./assets/svg/ascii-profile.svg" alt="ASCII profile portrait">

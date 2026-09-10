@@ -1,103 +1,56 @@
-# Hi, I'm Anil Rijal 👋
+<div align="center">
+	<img src="./assets/svg/banner.svg" alt="Anil Rijal developer banner">
+</div>
 
-### Python & Django Developer
+<table align="center">
+	<tr>
+		<td width="50%" valign="top">
+			<h2>👋 Anil Rijal</h2>
+			<p><strong>Python & Django Developer</strong></p>
+			<p>CSIT student building practical web applications with Python, Django, PostgreSQL, and modern web technologies.</p>
+		</td>
+		<td width="50%" valign="top">
+			<h2>🛠 Tech Stack</h2>
+			<p><strong>Backend:</strong> Python · Django · REST APIs</p>
+			<p><strong>Frontend:</strong> JavaScript · HTML · CSS · Bootstrap</p>
+			<p><strong>Data & Tools:</strong> PostgreSQL · SQLite · Git · Vercel</p>
+		</td>
+	</tr>
+</table>
 
-I’m a CSIT student focused on building practical web applications with **Python, Django, PostgreSQL, and modern web technologies**.
+<h2 align="center">🚀 Featured Projects</h2>
 
-I enjoy turning real-world problems into usable software and continuously improving my backend, database, and deployment skills.
+<table align="center">
+	<tr>
+		<td width="33%" valign="top">
+			<h3>🎬 NepFlix</h3>
+			<p>Django movie ticket booking platform with seat booking, reviews, payments, memberships, refunds, and analytics.</p>
+			<p><strong>Python · Django · JavaScript</strong></p>
+		</td>
+		<td width="33%" valign="top">
+			<h3>📸 Photography Portfolio</h3>
+			<p>Responsive photography portfolio with PWA support, themes, animations, and project showcases.</p>
+			<p><strong>HTML · CSS · JavaScript</strong></p>
+		</td>
+		<td width="33%" valign="top">
+			<h3>📚 CSIT GOD</h3>
+			<p>Academic resource platform for organizing CSIT learning materials and study resources.</p>
+			<p><strong>Python · Django · JavaScript</strong></p>
+		</td>
+	</tr>
+</table>
 
----
+<table align="center">
+	<tr>
+		<td width="50%" valign="top">
+			<h2>📊 Currently Learning</h2>
+			<p>Flutter · PostgreSQL · Backend architecture · Production deployment</p>
+		</td>
+		<td width="50%" valign="top">
+			<h2>🔗 Connect</h2>
+			<p><a href="https://anilrijal.info.np">Portfolio</a> · <a href="https://github.com/Anil702429">GitHub</a></p>
+		</td>
+	</tr>
+</table>
 
-## 🚀 Featured Projects
-
-### 🎬 NepFlix
-
-Django-based movie ticket booking platform featuring:
-
-* Interactive seat booking
-* Movie reviews and ratings
-* Payment integration
-* Booking cancellation and refunds
-* Membership system
-* Analytics dashboard
-
-**Tech:** Python · Django · SQLite/PostgreSQL · Bootstrap · JavaScript
-
-### 📸 Photography Portfolio
-
-Responsive personal photography portfolio with:
-
-* Responsive design
-* Dark/light mode
-* PWA support
-* Interactive animations
-* Project showcase
-* Custom domain
-
-**Tech:** HTML · CSS · JavaScript
-
-### 📚 CSIT GOD
-
-Django-based academic resource platform for organizing CSIT learning materials and study resources.
-
-**Tech:** Python · Django · JavaScript · HTML/CSS
-
----
-
-## 🛠 Tech Stack
-
-**Languages**
-
-Python · JavaScript · Dart · HTML · CSS
-
-**Backend**
-
-Django · REST APIs
-
-**Database**
-
-PostgreSQL · SQLite
-
-**Frontend**
-
-Bootstrap · JavaScript
-
-**Tools**
-
-Git · GitHub · Vercel
-
-**Currently Learning**
-
-Flutter · PostgreSQL · Backend architecture · Deployment
-
----
-
-## 📊 What I'm Working On
-
-* Building better Django applications
-* Improving database design and backend architecture
-* Learning production deployment and cloud services
-* Building projects that solve practical problems
-
----
-
-## 🔗 Connect With Me
-
-* Portfolio: https://anilrijal.info.np
-* GitHub: https://github.com/Anil702429
-
----
-
-### "Build it. Break it. Understand it. Improve it."
-
----
-
-## `anil@github:~$ ./welcome.sh`
-
-<img src="./assets/svg/banner.svg" alt="Terminal welcome banner">
-
-## `anil@github:~$ whoami`
-
-<img src="./assets/svg/info-card.svg" alt="Developer information card">
-
-<img src="./assets/svg/ascii-profile.svg" alt="ASCII profile portrait">
+<p align="center"><em>Build it. Break it. Understand it. Improve it.</em></p>

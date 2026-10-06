@@ -1,20 +1,28 @@
 <div align="center">
 
-# 👋 Hi, I'm **Anil Rijal**
+# 👋 Hi, I'm Anil Rijal
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Python+%26+Django+Developer;Backend+%26+Full-Stack+Developer;Building+software+for+the+real+world." alt="Typing animation">
+### Python & Django Developer · Backend Developer · CSIT Student
 
-<p>
-  <a href="https://anilrijal.info.np">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://github.com/Anil702429">
-    <img src="https://img.shields.io/badge/GitHub-Anil702429-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.instagram.com/anilrijal980/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+practical+software;Python+%26+Django+Developer;Backend+%26+Full-Stack+Development;Turning+ideas+into+working+products." alt="Typing animation">
+
+<br>
+
+<a href="https://anilrijal.info.np">
+<img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://github.com/Anil702429">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://www.instagram.com/anilrijal980/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Anil702429&style=flat-square&color=00D9FF" alt="Profile views">
 
 </div>
 
@@ -26,18 +34,22 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Anil Rijal**, a **Python & Django Developer** from Nepal.
+I'm **Anil Rijal**, a CSIT student and developer from Nepal focused on **Python, Django, backend development, and practical web applications**.
 
-I build practical software with a focus on:
+I enjoy building software that solves real problems — from academic platforms and booking systems to personal products and APIs.
 
-- 🚀 Scalable web applications
-- 🔌 REST APIs and backend systems
+My development approach is simple:
+
+> **Understand the problem → design the solution → build it → test it → improve it.**
+
+I'm particularly interested in:
+
+- 🐍 Python & Django development
+- 🔌 REST API development
 - 🗄️ Database-driven applications
-- 🔐 Authentication and secure workflows
-- 📱 Full-stack and mobile projects
-- ⚙️ Production-ready digital products
-
-I enjoy taking an idea from **problem → architecture → implementation → deployment**.
+- 🌐 Full-stack web development
+- 📱 Exploring mobile development
+- 🚀 Turning ideas into usable products
 
 </td>
 
@@ -49,7 +61,13 @@ I enjoy taking an idea from **problem → architecture → implementation → de
 
 **Python & Django Developer**
 
-📍 Nepal
+🇳🇵 Nepal
+
+<br><br>
+
+<a href="https://anilrijal.info.np">
+<img src="https://img.shields.io/badge/Visit_Portfolio-00D9FF?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
+</a>
 
 </td>
 </tr>
@@ -57,35 +75,40 @@ I enjoy taking an idea from **problem → architecture → implementation → de
 
 ---
 
-## ⚡ Tech Stack
+## ⚙️ Tech Stack
 
 ### Backend
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" alt="Django">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" width="45" alt="Django REST Framework">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="42" alt="Django">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" width="42" alt="Django REST Framework">
 </p>
+
+`Python` · `Django` · `Django REST Framework` · `REST APIs`
 
 ### Frontend
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="Tailwind CSS">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS3">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" alt="Bootstrap">
 </p>
+
+`HTML` · `CSS` · `JavaScript` · `Bootstrap`
 
 ### Database & Tools
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" alt="SQLite">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" alt="SQLite">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="42" alt="Vercel">
 </p>
+
+`PostgreSQL` · `SQLite` · `Git` · `GitHub` · `Vercel`
 
 ---
 
@@ -98,7 +121,11 @@ I enjoy taking an idea from **problem → architecture → implementation → de
 
 ### 🎬 NepFlix
 
-A Django-based movie ticket booking platform featuring:
+**Movie Ticket Booking Platform**
+
+A Django-based movie booking platform focused on a practical end-to-end booking experience.
+
+**Features**
 
 - 🎟️ Interactive seat booking
 - ⭐ Reviews & ratings
@@ -107,12 +134,14 @@ A Django-based movie ticket booking platform featuring:
 - 💰 Cancellation & refunds
 - 📊 Analytics
 
-**Stack:** Python · Django · JavaScript
+**Built with**
+
+`Python` · `Django` · `JavaScript`
 
 <br>
 
 <a href="https://github.com/Anil702429/NepFlix">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="NepFlix">
+<img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="NepFlix source code">
 </a>
 
 </td>
@@ -121,22 +150,27 @@ A Django-based movie ticket booking platform featuring:
 
 ### 📸 Photography Portfolio
 
-A responsive photography portfolio designed to showcase creative work.
+**Responsive Personal Portfolio**
 
-Features include:
+A responsive photography portfolio built to showcase creative work through a clean and interactive interface.
 
-- 🌙 Dark / Light mode
+**Features**
+
+- 🌙 Dark / light theme
 - 📱 Responsive design
 - ⚡ PWA support
 - ✨ Interactive animations
+- 🖼️ Project showcase
 - 🌐 Custom domain
 
-**Stack:** HTML · CSS · JavaScript
+**Built with**
+
+`HTML` · `CSS` · `JavaScript`
 
 <br>
 
 <a href="https://github.com/Anil702429/Portfolio">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="Photography Portfolio">
+<img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Photography portfolio source code">
 </a>
 
 </td>
@@ -149,40 +183,48 @@ Features include:
 
 ### 📚 CSIT GOD
 
-A Django-based academic resource platform built for CSIT students.
+**Academic Resource Platform**
 
-Features:
+A Django-based platform focused on organizing learning materials and resources for CSIT students.
 
-- 📖 Study materials
-- 📝 Academic resources
+**Focus**
+
+- 📖 Study resources
+- 📝 Academic materials
 - 🔎 Organized content
-- 🌐 Web-based learning platform
+- 🌐 Web-based learning
 
-**Stack:** Python · Django · JavaScript
+**Built with**
+
+`Python` · `Django` · `JavaScript`
 
 <br>
 
 <a href="https://github.com/Anil702429/CSIT_GOD">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="CSIT GOD">
+<img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="CSIT GOD source code">
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛠️ More Projects
+### 📱 Flutter Learning
 
-I'm continuously building and experimenting with:
+**Flutter & Dart Practice**
 
-- 🌐 Web applications
-- 🔌 REST APIs
-- 📱 Mobile applications
-- 🗄️ Database systems
-- 🤖 Automation tools
-- 💡 New product ideas
+A practical learning repository documenting my progress with Flutter and Dart through implementations and experiments.
 
-<a href="https://github.com/Anil702429?tab=repositories">
-<img src="https://img.shields.io/badge/View_All_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="All repositories">
+**Focus**
+
+- 📱 Flutter fundamentals
+- 🎯 Dart programming
+- 🧩 Practical implementations
+- 📈 Continuous learning
+
+<br>
+
+<a href="https://github.com/Anil702429/Flutter_tutorial">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Flutter tutorial repository">
 </a>
 
 </td>
@@ -192,11 +234,23 @@ I'm continuously building and experimenting with:
 
 ---
 
-## 📊 GitHub Statistics
+## 🛠️ Other Work
+
+I also maintain smaller projects and learning repositories covering:
+
+`Web Technology` · `Python` · `Django` · `Flutter` · `JavaScript` · `Database Systems`
+
+<a href="https://github.com/Anil702429?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="All repositories">
+</a>
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anil702429&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=Anil702429&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github" height="170" alt="GitHub statistics">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil702429&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top languages">
 
@@ -204,7 +258,7 @@ I'm continuously building and experimenting with:
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
 
@@ -214,29 +268,32 @@ I'm continuously building and experimenting with:
 
 ---
 
-## 🧠 Currently Learning
+## 🎯 Current Focus
 
-<p align="center">
+```text
+Python & Django       ████████████████████  Building
+Backend Development   ███████████████████░  Building
+REST APIs             ██████████████████░░  Improving
+PostgreSQL            ████████████████░░░░  Improving
+Flutter               █████████████░░░░░░░  Learning
+Production Deployment ████████████░░░░░░░░  Learning
+```
 
-`Flutter` · `PostgreSQL` · `Backend Architecture` · `REST APIs` · `Production Deployment`
-
-</p>
+I'm currently focused on becoming stronger at **backend architecture, database design, API development, and deploying real-world applications**.
 
 ---
 
-## 💼 What I'm Looking For
-
-I'm open to:
+## 💼 Open To
 
 - 💻 Backend development opportunities
 - 🌐 Full-stack projects
-- 🤝 Meaningful collaborations
-- 🚀 Building real-world products
+- 🤝 Open-source collaboration
+- 🚀 Building practical products
 - 📚 Learning from experienced developers
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 <div align="center">
 
@@ -254,14 +311,12 @@ I'm open to:
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 💡 Build it. Break it. Understand it. Improve it.
+### `Build it. Break it. Understand it. Improve it.`
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Anil702429&style=for-the-badge&color=00D9FF" alt="Profile views">
+**Thanks for visiting my profile.**
 
 </div>

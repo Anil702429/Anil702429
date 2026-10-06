@@ -13,13 +13,13 @@
 
 <br><br>
 
-<img
-  src="https://github.com/Anil702429.png"
-  width="150"
-  height="150"
-  alt="Anil Rijal"
-  style="border-radius:50%; border:3px solid #00D9FF;"
->
+<p align="right">
+  <img
+    src="https://github.com/Anil702429.png"
+    width="150"
+    alt="Anil Rijal"
+  />
+</p>
 
 <br>
 
